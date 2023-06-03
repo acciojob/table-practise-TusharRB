@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+table {
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+caption {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
